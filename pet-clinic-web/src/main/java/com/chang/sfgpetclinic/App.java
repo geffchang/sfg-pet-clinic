@@ -1,4 +1,4 @@
-package org.pet.clinic.web;
+package com.chang.sfgpetclinic;
 
 /**
  * Hello world!
